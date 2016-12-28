@@ -1,0 +1,8 @@
+{
+    "/api/EshopAdapter/Product/v1/miscCheck": {
+        "POST": {
+            "request": "{\"channelId\":47020689072128,\"customerId\":null,\"channelAccountId\":null,\"currencyId\":47018273636360,\"needPromotion\":true,\"couponCode\":null,\"excludeInvalidLine\":true,\"lines\":[{\"skuId\":47023305834496,\"count\":\"1\",\"lineNum\":1}]}",
+            "response": "...xxx..."
+        }
+    }
+}

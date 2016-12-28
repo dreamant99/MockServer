@@ -1,0 +1,8 @@
+{
+    "/api/EshopAdapter/Product/v1/getATS": {
+        "POST": {
+            "request": "{\"skuIds\":[47023305834496],\"channelId\":47020689072128}",
+            "response": "...xxx..."
+        }
+    }
+}

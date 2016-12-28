@@ -1,0 +1,8 @@
+{
+    "/api/EshopAdapter/Product/v1/getSKUPromotion": {
+        "POST": {
+            "request": "{\"channelId\":47020689072128,\"currencyId\":47018273636360,\"priceMethod\":\"NET_PRICE\",\"skuIds\":[47023305834496]}",
+            "response": "...xxx..."
+        }
+    }
+}
